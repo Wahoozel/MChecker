@@ -4,6 +4,7 @@ MChecker
 Checks if a Minecraft account has been bought
 
 How to use:
+
 1) Download main.py
 
 2) Run main.py
